@@ -1,13 +1,63 @@
 {
   "canon": {
     "title": "Stunspot's Guide to Business Venture Formulation",
+    "subtitle": "The Venture Formulation Canon",
     "slug": "business-venture-formulation",
     "version": "1.0",
-    "date_released": "2026-06-28"
+    "date_released": "2026-06-28",
+    "status": "first_public_release",
+    "description": "A model-facing field manual for turning venture ideas into inspectable enterprise systems.",
+    "primary_audience": "AI/RAG systems, long-context workspaces, venture-analysis assistants, founders, operators, investors, advisors, product strategists, and venture builders.",
+    "license": "CC BY-NC-SA 4.0",
+    "author": "Sam \"stunspot\" Walker / Collaborative Dynamics",
+    "repository": "https://github.com/Stunspot/stunspots-guide-to-business-venture-formulation",
+    "pages_url": "https://stunspot.github.io/stunspots-guide-to-business-venture-formulation/"
+  },
+  "directory_policy": {
+    "docs": "Navigation, public guidance, and GitHub Pages material only.",
+    "knowledge-packs/by-report": "Canonical individual source reports.",
+    "knowledge-packs/compiled-packs": "Grouped upload packs for AI/RAG workflows.",
+    "knowledge-packs/omnibus": "Whole-corpus bundle.",
+    "do_not_create": [
+      "docs/reports/"
+    ]
+  },
+  "repository_files": {
+    "root": [
+      "README.md",
+      "LICENSE.md",
+      "CITATION.cff",
+      "CHANGELOG.md",
+      "STATUS.md",
+      "MANIFEST.md",
+      "manifest.json"
+    ],
+    "docs": [
+      "docs/index.md",
+      "docs/canon-map.md",
+      "docs/how-to-use-this-canon.md",
+      "docs/knowledge-packs.md"
+    ],
+    "brand_asset_placeholders": [
+      "docs/assets/brand/readme-hero.png",
+      "docs/assets/brand/pages-hero.png"
+    ]
+  },
+  "pack_recommendation": {
+    "default": "compiled_packs",
+    "source_reports": "Use for precise retrieval, selective upload, citation, editing, and report-level indexing.",
+    "compiled_packs": "Recommended default for most AI/RAG systems: three files, broad coverage, preserved canon structure, lower upload friction.",
+    "omnibus": "Use for one-file import, archival, local search, broad synthesis, and robust long-context systems."
   },
   "corpus": {
     "generated_at": "2026-06-28T22:14:57+00:00",
     "source_directory_policy": "Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.",
+    "counts": {
+      "source_reports": 14,
+      "compiled_packs": 3,
+      "omnibus_files": 1,
+      "unclassified_files": 0
+    },
     "reports": [
       {
         "code": "A",
