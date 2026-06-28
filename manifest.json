@@ -1,0 +1,187 @@
+{
+  "canon": {
+    "title": "Stunspot's Guide to Business Venture Formulation",
+    "slug": "business-venture-formulation",
+    "version": "1.0",
+    "date_released": "2026-06-28"
+  },
+  "corpus": {
+    "generated_at": "2026-06-28T22:14:57+00:00",
+    "source_directory_policy": "Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.",
+    "reports": [
+      {
+        "code": "A",
+        "title": "Venture Ontology and Enterprise Reality",
+        "subtitle": "",
+        "source_filename": "A. Venture Ontology and Enterprise Reality.md",
+        "source_path": "A. Venture Ontology and Enterprise Reality.md",
+        "filename": "a-venture-ontology-and-enterprise-reality.md",
+        "path": "knowledge-packs/by-report/a-venture-ontology-and-enterprise-reality.md",
+        "size_bytes": 30921
+      },
+      {
+        "code": "B",
+        "title": "Operational Epistemology and Decision Logic",
+        "subtitle": "",
+        "source_filename": "B. Operational Epistemology and Decision Logic.md",
+        "source_path": "B. Operational Epistemology and Decision Logic.md",
+        "filename": "b-operational-epistemology-and-decision-logic.md",
+        "path": "knowledge-packs/by-report/b-operational-epistemology-and-decision-logic.md",
+        "size_bytes": 33611
+      },
+      {
+        "code": "C",
+        "title": "Market Structure, Power, and Strategic Environment",
+        "subtitle": "",
+        "source_filename": "C. Market Structure, Power, and Strategic Environment.md",
+        "source_path": "C. Market Structure, Power, and Strategic Environment.md",
+        "filename": "c-market-structure-power-and-strategic-environment.md",
+        "path": "knowledge-packs/by-report/c-market-structure-power-and-strategic-environment.md",
+        "size_bytes": 37243
+      },
+      {
+        "code": "D",
+        "title": "Customer Reality, Demand Formation, and Opportunity Intelligence",
+        "subtitle": "",
+        "source_filename": "D. Customer Reality, Demand Formation, and Opportunity Intelligence.md",
+        "source_path": "D. Customer Reality, Demand Formation, and Opportunity Intelligence.md",
+        "filename": "d-customer-reality-demand-formation-and-opportunity-intelligence.md",
+        "path": "knowledge-packs/by-report/d-customer-reality-demand-formation-and-opportunity-intelligence.md",
+        "size_bytes": 34386
+      },
+      {
+        "code": "E",
+        "title": "Venture States, Stage Transitions, and Scaling Logic",
+        "subtitle": "",
+        "source_filename": "E. Venture States, Stage Transitions, and Scaling Logic.md",
+        "source_path": "E. Venture States, Stage Transitions, and Scaling Logic.md",
+        "filename": "e-venture-states-stage-transitions-and-scaling-logic.md",
+        "path": "knowledge-packs/by-report/e-venture-states-stage-transitions-and-scaling-logic.md",
+        "size_bytes": 20225
+      },
+      {
+        "code": "F",
+        "title": "Offer Architecture, Positioning, and Category Design",
+        "subtitle": "",
+        "source_filename": "F. Offer Architecture, Positioning, and Category Design.md",
+        "source_path": "F. Offer Architecture, Positioning, and Category Design.md",
+        "filename": "f-offer-architecture-positioning-and-category-design.md",
+        "path": "knowledge-packs/by-report/f-offer-architecture-positioning-and-category-design.md",
+        "size_bytes": 33410
+      },
+      {
+        "code": "G",
+        "title": "Business Model Architecture and Economic Capture",
+        "subtitle": "",
+        "source_filename": "G. Business Model Architecture and Economic Capture.md",
+        "source_path": "G. Business Model Architecture and Economic Capture.md",
+        "filename": "g-business-model-architecture-and-economic-capture.md",
+        "path": "knowledge-packs/by-report/g-business-model-architecture-and-economic-capture.md",
+        "size_bytes": 30052
+      },
+      {
+        "code": "H",
+        "title": "Go-to-Market Architecture and Commercial Motion",
+        "subtitle": "",
+        "source_filename": "H. Go-to-Market Architecture and Commercial Motion.md",
+        "source_path": "H. Go-to-Market Architecture and Commercial Motion.md",
+        "filename": "h-go-to-market-architecture-and-commercial-motion.md",
+        "path": "knowledge-packs/by-report/h-go-to-market-architecture-and-commercial-motion.md",
+        "size_bytes": 33626
+      },
+      {
+        "code": "I",
+        "title": "Operating Model, Delivery Systems, and Capability Design",
+        "subtitle": "",
+        "source_filename": "I. Operating Model, Delivery Systems, and Capability Design.md",
+        "source_path": "I. Operating Model, Delivery Systems, and Capability Design.md",
+        "filename": "i-operating-model-delivery-systems-and-capability-design.md",
+        "path": "knowledge-packs/by-report/i-operating-model-delivery-systems-and-capability-design.md",
+        "size_bytes": 25056
+      },
+      {
+        "code": "J",
+        "title": "Capital Strategy, Resource Assembly, and Strategic Resourcing",
+        "subtitle": "",
+        "source_filename": "J. Capital Strategy, Resource Assembly, and Strategic Resourcing.md",
+        "source_path": "J. Capital Strategy, Resource Assembly, and Strategic Resourcing.md",
+        "filename": "j-capital-strategy-resource-assembly-and-strategic-resourcing.md",
+        "path": "knowledge-packs/by-report/j-capital-strategy-resource-assembly-and-strategic-resourcing.md",
+        "size_bytes": 35326
+      },
+      {
+        "code": "K",
+        "title": "Organizational Design, Stakeholder Alignment, and Decision Rights",
+        "subtitle": "",
+        "source_filename": "K. Organizational Design, Stakeholder Alignment, and Decision Rights.md",
+        "source_path": "K. Organizational Design, Stakeholder Alignment, and Decision Rights.md",
+        "filename": "k-organizational-design-stakeholder-alignment-and-decision-rights.md",
+        "path": "knowledge-packs/by-report/k-organizational-design-stakeholder-alignment-and-decision-rights.md",
+        "size_bytes": 30275
+      },
+      {
+        "code": "L",
+        "title": "Governance, Legitimacy, and Institutional Constraint",
+        "subtitle": "",
+        "source_filename": "L. Governance, Legitimacy, and Institutional Constraint.md",
+        "source_path": "L. Governance, Legitimacy, and Institutional Constraint.md",
+        "filename": "l-governance-legitimacy-and-institutional-constraint.md",
+        "path": "knowledge-packs/by-report/l-governance-legitimacy-and-institutional-constraint.md",
+        "size_bytes": 38964
+      },
+      {
+        "code": "M",
+        "title": "Venture Diagnostics, Failure Modes, and Corrective Intervention",
+        "subtitle": "",
+        "source_filename": "M. Venture Diagnostics, Failure Modes, and Corrective Intervention.md",
+        "source_path": "M. Venture Diagnostics, Failure Modes, and Corrective Intervention.md",
+        "filename": "m-venture-diagnostics-failure-modes-and-corrective-intervention.md",
+        "path": "knowledge-packs/by-report/m-venture-diagnostics-failure-modes-and-corrective-intervention.md",
+        "size_bytes": 36862
+      },
+      {
+        "code": "N",
+        "title": "Execution Control, Measurement Systems, and Institutional Artifacts",
+        "subtitle": "",
+        "source_filename": "N. Execution Control, Measurement Systems, and Institutional Artifacts.md",
+        "source_path": "N. Execution Control, Measurement Systems, and Institutional Artifacts.md",
+        "filename": "n-execution-control-measurement-systems-and-institutional-artifacts.md",
+        "path": "knowledge-packs/by-report/n-execution-control-measurement-systems-and-institutional-artifacts.md",
+        "size_bytes": 37813
+      }
+    ],
+    "compiled_packs": [
+      {
+        "label": "Business Venture Formulation - Vol. 1 A-E Foundational Reality Layers",
+        "source_filename": "[KNOWLEDGE] - Business Venture Formulation - Vol. 1 A-E Foundational Reality Layers.md",
+        "source_path": "[KNOWLEDGE] - Business Venture Formulation - Vol. 1 A-E Foundational Reality Layers.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-business-venture-formulation-vol-1-a-e-foundational-reality-layers.md",
+        "size_bytes": 157108
+      },
+      {
+        "label": "Business Venture Formulation - Vol. 2 F-K Core Operating Domains",
+        "source_filename": "[KNOWLEDGE] - Business Venture Formulation - Vol. 2 F-K Core Operating Domains.md",
+        "source_path": "[KNOWLEDGE] - Business Venture Formulation - Vol. 2 F-K Core Operating Domains.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-business-venture-formulation-vol-2-f-k-core-operating-domains.md",
+        "size_bytes": 188676
+      },
+      {
+        "label": "Business Venture Formulation - Vol. 3 L-N Constraint, Legitimacy, and Control Layers",
+        "source_filename": "[KNOWLEDGE] - Business Venture Formulation - Vol. 3 L-N Constraint, Legitimacy, and Control Layers.md",
+        "source_path": "[KNOWLEDGE] - Business Venture Formulation - Vol. 3 L-N Constraint, Legitimacy, and Control Layers.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-business-venture-formulation-vol-3-l-n-constraint-legitimacy-and-control-layers.md",
+        "size_bytes": 114223
+      }
+    ],
+    "omnibus": [
+      {
+        "label": "Business Venture Formulation - Omnibus",
+        "source_filename": "[KNOWLEDGE] - Business Venture Formulation - Omnibus.md",
+        "source_path": "[KNOWLEDGE] - Business Venture Formulation - Omnibus.md",
+        "dest_path": "knowledge-packs/omnibus/knowledge-business-venture-formulation-omnibus.md",
+        "size_bytes": 460095
+      }
+    ],
+    "unclassified": []
+  }
+}

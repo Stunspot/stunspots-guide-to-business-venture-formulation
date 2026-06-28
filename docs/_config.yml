@@ -1,0 +1,8 @@
+title: Stunspot's Guide to Business Venture Formulation
+description: A practical canon for business venture formulation knowledge, reasoning, and AI/RAG use.
+show_downloads: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
