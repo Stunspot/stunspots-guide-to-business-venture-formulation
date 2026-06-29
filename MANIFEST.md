@@ -4,6 +4,11 @@ Generated: 2026-06-28T22:14:57+00:00
 Public copy audit: 2026-06-28  
 Source directory: Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.
 
+## Citation and Archive
+
+**DOI:** https://doi.org/10.5281/zenodo.21039191
+**Zenodo Record:** https://zenodo.org/records/21039191
+
 ## Public Positioning
 
 - Canon title: **Stunspot's Guide to Business Venture Formulation**

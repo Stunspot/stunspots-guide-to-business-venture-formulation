@@ -10,6 +10,10 @@ authors:
 version: "1.0"
 date-released: "2026-06-28"
 license: "CC-BY-NC-SA-4.0"
+doi: "10.5281/zenodo.21039191"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21039191"
 url: "https://stunspot.github.io/stunspots-guide-to-business-venture-formulation/"
 repository-code: "https://github.com/Stunspot/stunspots-guide-to-business-venture-formulation"
 abstract: "A model-facing venture formulation canon for AI/RAG workflows, founder reasoning, strategic venture analysis, business-model design, governance review, diagnostic intervention, and execution control."

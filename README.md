@@ -11,6 +11,7 @@
 ![Reports](https://img.shields.io/badge/reports-14-blue)
 ![Compiled%20Packs](https://img.shields.io/badge/compiled_packs-3-blueviolet)
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-darkgrey)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21039191.svg)](https://doi.org/10.5281/zenodo.21039191)
 
 *Stunspot's Guide to Business Venture Formulation* is a Markdown-native knowledge repository built primarily for AI-assisted venture analysis, founder reasoning, strategic design, and RAG/long-context use.
 
