@@ -7,7 +7,7 @@
 - Version: **1.0**
 - Release date: **2026-06-28**
 - Status: **First public release**
-- License: **CC BY-NC-SA 4.0**
+- License: **Creative Commons Attribution 4.0 International**
 - Author: **Sam “stunspot” Walker / Collaborative Dynamics**
 
 ## Corpus Inventory
@@ -25,7 +25,3 @@ The repository is intended primarily for AI/RAG use. Human readers can navigate 
 Source reports are the canonical individual units. Compiled packs and omnibus files are convenience formats for upload, retrieval, archival, and long-context workflows.
 
 Brand hero image references are intentionally retained for later visual assets.
-
-## Known Boundaries
-
-This canon supports business reasoning, venture design, strategic diagnosis, and AI-assisted analysis. It is not legal, financial, accounting, tax, or investment advice. High-impact decisions require qualified professional review.
