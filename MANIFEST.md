@@ -18,7 +18,7 @@ Source directory: Local build source directory omitted from public release. Sour
 - Repository: `Stunspot/stunspots-guide-to-business-venture-formulation`
 - Version: `1.0`
 - Release date: `2026-06-28`
-- License: `CC BY-NC-SA 4.0`
+- License: `Creative Commons Attribution 4.0 International`
 - Author: Sam “stunspot” Walker / Collaborative Dynamics
 
 ## Directory Policy
@@ -41,7 +41,7 @@ Source directory: Local build source directory omitted from public release. Sour
 ### Root Files
 
 - `README.md` — public repository introduction and orientation.
-- `LICENSE.md` — CC BY-NC-SA 4.0 licensing notice and no-warranty statement.
+- `LICENSE.md` — Creative Commons Attribution 4.0 licensing notice and no-warranty statement.
 - `CITATION.cff` — citation metadata.
 - `CHANGELOG.md` — release notes.
 - `STATUS.md` — release maturity and boundaries.
